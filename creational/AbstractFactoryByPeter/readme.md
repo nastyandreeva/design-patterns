@@ -7,4 +7,4 @@
 
 Затем пишутся классы, реализующие этот интерфейс.
 
-![img](DesignPatterns.png)
+![img](ClassDiagram.png)
